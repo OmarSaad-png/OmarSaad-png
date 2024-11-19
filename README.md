@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Saad</h1>
 <h3 align="center">A Passionate AI & Machine Learning Engineer</h3>
-![Header]("C:\Users\mario\Downloads\github-header-image.png".png)
+![Header](https://github.com/OmarSaad-png/pfp/blob/main/github-header-image.png.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarsaad-png&label=Profile%20views&color=0e75b6&style=flat" alt="omarsaad-png" /> </p>
 
 - 🌱 I’m currently learning **MLOPS**
